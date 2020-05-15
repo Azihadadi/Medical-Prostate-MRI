@@ -1,0 +1,41 @@
+% Encoding: UTF-8
+
+@Article{ref1,
+  author    = {Bhavsar, Anil and Verma, Sadhna},
+  journal   = {BioMed research international},
+  title     = {Anatomic imaging of the prostate},
+  year      = {2014},
+  volume    = {2014},
+  publisher = {Hindawi},
+}
+
+@Article{ref2,
+  author    = {Murphy, Gillian and Haider, Masoom and Ghai, Sangeet and Sreeharsha, Boraiah},
+  journal   = {American Journal of Roentgenology},
+  title     = {The expanding role of MRI in prostate cancer},
+  year      = {2013},
+  number    = {6},
+  pages     = {1229--1238},
+  volume    = {201},
+  publisher = {Am Roentgen Ray Soc},
+}
+
+@Article{ref3,
+  author  = {Kass, M., Witkin, A., Terzopoulos, D.},
+  journal = {Int. J. Comput. Vis.1(14), 321–331},
+  title   = {Snakes: active contourmodels.},
+  year    = {1998},
+}
+
+@Article{ref4,
+  author    = {Marr, David and Hildreth, Ellen},
+  journal   = {Proceedings of the Royal Society of London. Series B. Biological Sciences},
+  title     = {Theory of edge detection},
+  year      = {1980},
+  number    = {1167},
+  pages     = {187--217},
+  volume    = {207},
+  publisher = {The Royal Society London},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
